@@ -10,6 +10,9 @@ dependencies:
   name: exposecontroller
   repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
+- name: fish-api
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.6
 - name: fish-webapps
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
